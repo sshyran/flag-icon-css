@@ -4,6 +4,8 @@
   background-repeat: no-repeat;
 }
 .flag-icon {
+  position: inherit;
+  vertical-align: middle;
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
